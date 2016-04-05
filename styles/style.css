@@ -289,3 +289,18 @@ blockquote {
   }
 }
 
+@media (max-width: 993px) {
+  #gsd-span {
+    display: -webkit-box;
+  }
+}
+@media (max-width: 750px) {
+  #gsd-span {
+    display: inline-flex;
+  }
+}
+@media (max-width: 993px) {
+  #gsd-skills {
+    margin-top: 15px;
+  }
+}
