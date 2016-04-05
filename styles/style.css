@@ -304,3 +304,9 @@ blockquote {
     margin-top: 15px;
   }
 }
+
+@media (max-width: 993px) {
+  .media-list {
+    padding: 30px 15px;
+  }
+}
