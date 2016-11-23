@@ -1,5 +1,5 @@
 // get the data
-d3.csv("scripts/mySkills.csv", function(error, links) {
+d3.csv("public/scripts/mySkills.csv", function(error, links) {
 
 // contain data for nodes
 var nodes = {};
