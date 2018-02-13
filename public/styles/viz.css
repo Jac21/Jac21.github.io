@@ -5,19 +5,19 @@ path.link {
 }
 
 path.link.twofive {
-	opacity: 0.25;
+  opacity: 0.25;
 }
 
 path.link.fivezero {
-	opacity: 0.50;
+  opacity: 0.50;
 }
 
 path.link.sevenfive {
-	opacity: 0.75;
+  opacity: 0.75;
 }
 
 path.link.onezerozero {
-	opacity: 1.0;
+  opacity: 1.0;
 }
 
 circle {
