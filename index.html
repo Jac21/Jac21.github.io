@@ -479,9 +479,19 @@
 
     <!-- Scripts -->
     <script type="text/javascript" src="public/scripts/page.js"></script>
+    <!-- Google tag (gtag.js) -->
     <script
-      type="text/javascript"
-      src="public/scripts/lib/analytics.js"
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-99HXD3NP9S"
     ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-99HXD3NP9S");
+    </script>
   </body>
 </html>
