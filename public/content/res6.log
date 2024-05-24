@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  21 NOV 2023 10:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  24 MAY 2024 11:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -69,12 +69,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
  []
 
@@ -82,12 +82,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
 
  []
 
@@ -104,7 +104,7 @@ Here is how much of TeX's memory you used:
 pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on res6.pdf (2 pages, 63903 bytes).
+Output written on res6.pdf (2 pages, 63944 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
