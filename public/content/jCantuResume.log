@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  24 FEB 2026 10:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  3 MAR 2026 10:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -69,12 +69,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
 
  []
 
@@ -82,17 +77,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
@@ -104,12 +99,12 @@ Here is how much of TeX's memory you used:
  21070 multiletter control sequences out of 15000+600000
  516280 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,8n,52p,473b,200s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 46i,8n,52p,479b,200s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.
 pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on jCantuResume.pdf (2 pages, 64100 bytes).
+Output written on jCantuResume.pdf (2 pages, 64081 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
